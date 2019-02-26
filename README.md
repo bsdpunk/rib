@@ -1,6 +1,9 @@
 # rib is a DNS tool, for making requests and other DNS troubleshooting
 It's garbage, don't use it. All it does right now is resolve A and PTR records.
 
+Current syntax is ./rib IPorHostName NameServerAddress
+
+
 ![Animated Example](rib.gif)
 
 ## WHY ANOTHER DNS TOOL
